@@ -1,0 +1,16 @@
+.Container{
+    display: flex;
+    flex-direction: row;
+    height: 50vh;
+    background-color: black;
+    color: white;
+    justify-content: space-evenly;
+}
+.image{
+    width: 430px;
+    height: 630px;
+    border-radius: 10px;
+}
+.details{
+    width: 70rem;
+}
